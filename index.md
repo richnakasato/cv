@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Rich Nakasato's CV
 ---
 
-# Eralp Karaduman
-Generalist Software Developer
+# Rich Nakasato
+Software Developer
 
-| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
+| __E-Mail__   | [richnakasato@hotmail.com](mailto:richnakasato@hotmail.com)              | 
 | __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
-| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
-| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
+| __LinkedIn__ | [linkedin.com/in/richnakasato](https://linkedin.com/in/richnakasato)     |
 
 
 ## Currently
