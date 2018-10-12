@@ -20,12 +20,12 @@ Working as a software developer for a government contractor in Fairfax, VA.
 `2015-2017`
 __Georgia Institute of Technology, M.S. Computer Science__
 
-Specialization: Interactive Intelligence
+_Specialization: Interactive Intelligence_
 
 `1997-2004`
 __Georgia Institute of Technology, B.S. Computer Engineering__
 
-Specialization: N/A
+_Specialization: N/A_
 
 
 ## Occupation
