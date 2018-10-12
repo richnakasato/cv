@@ -8,7 +8,7 @@ Software Developer
 
 | __E-Mail__   | [richnakasato@hotmail.com](mailto:richnakasato@hotmail.com)          |
 | __LinkedIn__ | [linkedin.com/in/richnakasato](https://linkedin.com/in/richnakasato) |
-| __Phone__    | [404-610-7795]                                                       |
+| __Phone__    | 404-610-7795                                                         |
 
 
 ## Currently
@@ -49,8 +49,8 @@ _Software Developer_
   PCTRL provides interface to radar controller and failover for receiver exciter
   and beamforming processing subsystems. Developed in legacy C++
   (read: C with classes) on Linux platform.
-- Developed internal support tooling (SVN automated builds, SVN repo scraper,
-  testing harnesses)
+- Developed internal support tooling (SVN automated builder, SVN repo scraper,
+  testing harnesses, etc.). Developed in Python on Linux platform.
 
 
 `Nov 2004 - Apr 2011`
