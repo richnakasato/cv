@@ -55,3 +55,15 @@ _Research Engineer_
 - Developed web based asset management system for tracking classified hardware. Developed in PHP and mySQL on Windows platform.
 - Developed histogram pulse processing algorithm for ALR-69 radar warning receiver. Used for pulse processing performance research and proof-of-concept demonstration. Developed in C on vxWorks platform.
 - Developed WAV audio playback system for ALR-69 radar warning receiver. Used for enhanced thread audio resarch and proof-of-concept demonstration. Developed in C on vxWorks platform.
+
+
+## Projects
+
+`Summer 2017`
+_bitMarks Blockchain Transcript_
+Developed (bitMarks)[https://youtu.be/hWApEBhrqS4], a demonstration web application utilizing Hyperledger blockchain technology acting as a digital learning record and credentialing system aimed at replacing the traditional academic transcript. Developed in Python and JavaScript on Linux platform.
+
+
+`Summer 2016`
+_Photo Scrub_
+Developed (automated image search-and-replace tool)[https://goo.gl/xjVtjF], utilizing SIFT, homography, and inpainting to automatically detect user provided sample logos contained in digital images with replacement logos. Developed in Python on Linux platform.
