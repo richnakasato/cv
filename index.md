@@ -23,12 +23,12 @@ Open to any interesting commercial tech opportunities (i.e. not government contr
 ## Education
 
 `2015-2017`
-__Georgia Institute of Technology, M.S. Computer Science__
+__Georgia Institute of Technology__, M.S. Computer Science
 
 _Specialization: Interactive Intelligence_
 
 `1997-2004`
-__Georgia Institute of Technology, B.S. Computer Engineering__
+__Georgia Institute of Technology__, B.S. Computer Engineering
 
 _Specialization: N/A_
 
