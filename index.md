@@ -15,6 +15,11 @@ Software Developer
 Working as a software developer for a government contractor in Fairfax, VA.
 
 
+## Seeking
+
+Open to any interesting commercial tech opportunities (i.e. not government contracting) in anywhere, USA.
+
+
 ## Education
 
 `2015-2017`
@@ -30,7 +35,7 @@ _Specialization: N/A_
 
 ## Occupation
 
-`Apr 2011 - now`
+`Apr 2011 - Current`
 __General Dynamics Mission Systems__, Fairfax, VA.
 
 _Software Developer_
