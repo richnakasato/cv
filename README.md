@@ -9,4 +9,4 @@
 
 [![Build Status](https://travis-ci.org/richnakasato/cv.svg?branch=gh-pages)](https://travis-ci.org/richnakasato/cv)
 
-**Please check out [Eralp Karaduman's github](https://eralpkaraduman.github.io/cv) to setup something similar for yourself!**
+Please check out [Eralp Karaduman's github](https://eralpkaraduman.github.io/cv) to setup something similar for yourself!
