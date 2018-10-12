@@ -61,9 +61,9 @@ _Research Engineer_
 
 `Summer 2017` __bitMarks Blockchain Transcript__
 
-Developed (bitMarks)[https://youtu.be/hWApEBhrqS4], a demonstration web application utilizing Hyperledger blockchain technology acting as a digital learning record and credentialing system aimed at replacing the traditional academic transcript. Developed in Python and JavaScript on Linux platform.
+Developed [bitMarks](https://youtu.be/hWApEBhrqS4), a demonstration web application utilizing Hyperledger blockchain technology acting as a digital learning record and credentialing system aimed at replacing the traditional academic transcript. Developed in Python and JavaScript on Linux platform.
 
 
 `Summer 2016` __Photo Scrub__
 
-Developed (automated image search-and-replace tool)[https://goo.gl/xjVtjF], utilizing SIFT, homography, and inpainting to automatically detect user provided sample logos contained in digital images with replacement logos. Developed in Python on Linux platform.
+Developed automated image search-and-replace [tool](https://goo.gl/xjVtjF), utilizing SIFT, homography, and inpainting to automatically detect user provided sample logos contained in digital images with replacement logos. Developed in Python on Linux platform.
