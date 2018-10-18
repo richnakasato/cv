@@ -18,7 +18,7 @@ Working as a software developer for a government contractor in Fairfax, VA.
 
 ## Seeking
 
-Open to any interesting commercial tech opportunities in anywhere, USA.
+Open to any interesting commercial tech opportunities in Anywhere, USA.
 
 
 ## Education
