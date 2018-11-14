@@ -16,11 +16,6 @@ Software Developer
 Working as a software developer for a government contractor in Fairfax, VA.
 
 
-## Seeking
-
-Open to any interesting commercial tech opportunities in Anywhere, USA.
-
-
 ## Education
 
 `2015-2017`
