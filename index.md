@@ -13,7 +13,7 @@ Software Developer
 
 ## Currently
 
-Working as a software developer for a government contractor in Fairfax, VA.
+Working as a software engineer for a government contractor in Fairfax, VA.
 
 
 ## Education
@@ -40,7 +40,7 @@ _Software Engineer (2014-Current)_
 - Developed internal build/audit tools (Subversion automated builder, Subversion repo scraper, etc.) for General Dynamics Surface Electronic Warfare Improvement Program (SEWIP) and AMDR programs. Developed in Python on Linux platform.
 - Developed data recording and data routing functionality for the Data Routing Module (DRM) and implemented signal processing and detection algorithms for the Data Processing Module (DPM) software applications for the [Multi-Function Phased Array Radar (MPAR)](https://www.nssl.noaa.gov/tools/radar/atd/) advanced technology demonstration. DRM performs data processing load balancing across DPMs and data archiving capability. DPM performs signal processing and detection reporting. Developed in legacy C++ (read: C with classes) on Linux platform.
 - Supported integration of Transportation Security Equipment (TSE) Requirements Assessment Platform and RTI DDS middleware. Middleware provides messaging infrastructure for airport security checkpoint simulations, passenger flow modeling, and integration testing. Developed in Java on Windows platform.
-- Developed Processing Controller (PCTRL) software application for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). PCTRL provides interface layer to radar controller and failover functionality for receiver exciter and beamforming processing subsystems. Developed in legacy C++ (read: C with classes) on Linux platform.
+- Developed Processing Controller (PCTRL) software application for the AMDR program. PCTRL provides interface layer to radar controller and failover functionality for receiver exciter and beamforming processing subsystems. Developed in legacy C++ (read: C with classes) on Linux platform.
 
 _Systems Engineer (2011-2014)_
 
