@@ -34,13 +34,18 @@ _Specialization: N/A_
 `Apr 2011 - Current`
 __General Dynamics Mission Systems__, Fairfax, VA.
 
-_Software Developer_
+_Software Engineer (2014-Current)_
 
-- Primary developer for Data Routing Module (DRM) and Data Processing Module (DPM) software applications for the [Multi-Function Phased Array Radar (MPAR)](https://www.nssl.noaa.gov/tools/radar/atd/) advanced technology demonstration. DRM performs FIFO load balancing across DPMs and data archiving capability. DPM performs signal processing and detection reporting. Developed in legacy C++ (read: C with classes) on Linux platform.
-- Supported integration of TSE Requirements Assessment Platform and RTI DDS middleware. Middleware provides messaging infrastructure for airport security checkpoint simulations, passenger flow modeling, and integration testing. Developed in Java on Windows platform.
-- Developed Processing Controller (PCTRL) software application for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). PCTRL provides interface to radar controller and failover for receiver exciter
-  and beamforming processing subsystems. Developed in legacy C++ (read: C with classes) on Linux platform.
-- Developed internal support tooling (SVN automated builder, SVN repo scraper, testing harnesses, etc.). Developed in Python on Linux platform.
+- Developing testing framework and support tools for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). Test framework and support tools provide automated integration test capability for the receiver exciter and beamforming processing subsystems.  Developed in Python on Linux platform.
+- Developed internal build/audit tools (Subversion automated builder, Subversion repo scraper, etc.) for General Dynamics Surface Electronic Warfare Improvement Program (SEWIP) and AMDR programs. Developed in Python on Linux platform.
+- Developed data recording and data routing functionality for the Data Routing Module (DRM) and implemented signal processing and detection algorithms for the Data Processing Module (DPM) software applications for the [Multi-Function Phased Array Radar (MPAR)](https://www.nssl.noaa.gov/tools/radar/atd/) advanced technology demonstration. DRM performs data processing load balancing across DPMs and data archiving capability. DPM performs signal processing and detection reporting. Developed in legacy C++ (read: C with classes) on Linux platform.
+- Supported integration of Transportation Security Equipment (TSE) Requirements Assessment Platform and RTI DDS middleware. Middleware provides messaging infrastructure for airport security checkpoint simulations, passenger flow modeling, and integration testing. Developed in Java on Windows platform.
+- Developed Processing Controller (PCTRL) software application for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). PCTRL provides interface layer to radar controller and failover functionality for receiver exciter and beamforming processing subsystems. Developed in legacy C++ (read: C with classes) on Linux platform.
+
+_Systems Engineer (2011-2014)_
+
+- Assisted with system engineering effort for AMDR sensor maintenance concept. Responsibilities include: architecture modeling and requirements development. Modeled maintenance concept architecture and use cases in IBM’s Rhapsody SysML modeling software.
+- Assisted with system engineering effort for AMDR Radar Suite Controller (RSC) track management concept. Aided track management subject matter expert in track management algorithm analysis. Performed tactical situations (TACSITs) analysis to determine operational baseline for track management software.
 
 
 `Nov 2004 - Apr 2011`
@@ -49,8 +54,8 @@ __Georgia Tech Research Institute__, Atlanta, GA.
 _Research Engineer_
 
 - Developed web based asset management system for tracking classified hardware. Developed in PHP and mySQL on Windows platform.
-- Developed histogram pulse processing algorithm for ALR-69 radar warning receiver. Used for pulse processing performance research and proof-of-concept demonstration. Developed in C on vxWorks platform.
-- Developed WAV audio playback system for ALR-69 radar warning receiver. Used for enhanced thread audio resarch and proof-of-concept demonstration. Developed in C on vxWorks platform.
+- Developed histogram pulse processing algorithm for ALR-69 radar warning receiver. Used for studying alternative pulse processing technique performance vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
+- Developed WAV audio playback system for ALR-69 radar warning receiver. Used for studying alternative threat warning audio effectiveness vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
 
 
 ## Projects
@@ -62,4 +67,4 @@ Developed [bitMarks](https://youtu.be/hWApEBhrqS4), a demonstration web applicat
 
 `Summer 2016` __Photo Scrub__
 
-Developed automated image search-and-replace [tool](https://goo.gl/xjVtjF), utilizing SIFT, homography, and inpainting. Developed in Python on Linux platform.
+Developed [automated image search-and-replace tool](https://goo.gl/xjVtjF), utilizing SIFT, homography, and inpainting. Developed in Python on Linux platform.
