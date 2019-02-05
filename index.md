@@ -11,11 +11,6 @@ Software Engineer
 | __LinkedIn__ | [linkedin.com/in/richnakasato](https://linkedin.com/in/richnakasato) |
 
 
-## Currently
-
-Working as a software engineer for a government contractor in Fairfax, VA.
-
-
 ## Education
 
 `2015-2017`
