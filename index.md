@@ -5,7 +5,7 @@ title: Rich Nakasato's CV
 
 # Rich Nakasato
 
-Software Developer
+Software Engineer
 
 | __E-Mail__   | [richnakasato@hotmail.com](mailto:richnakasato@hotmail.com)          |
 | __LinkedIn__ | [linkedin.com/in/richnakasato](https://linkedin.com/in/richnakasato) |
