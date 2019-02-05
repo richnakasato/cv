@@ -44,8 +44,8 @@ _Software Engineer (2014-Current)_
 
 _Systems Engineer (2011-2014)_
 
-- Assisted with system engineering effort for AMDR sensor maintenance concept. Responsibilities include: architecture modeling and requirements development. Modeled maintenance concept architecture and use cases in IBM’s Rhapsody SysML modeling software.
-- Assisted with system engineering effort for AMDR Radar Suite Controller (RSC) track management concept. Aided track management subject matter expert in track management algorithm analysis. Performed tactical situations (TACSITs) analysis to determine operational baseline for track management software.
+- Assisted with system engineering effort for AMDR sensor maintenance concept. Responsibilities include: architecture modeling and requirements development.
+- Assisted with system engineering effort for AMDR Radar Suite Controller (RSC) track management concept. Responsibilities include: architecture modeling and requirements development.
 
 
 `Nov 2004 - Apr 2011`
@@ -54,8 +54,8 @@ __Georgia Tech Research Institute__, Atlanta, GA.
 _Research Engineer_
 
 - Developed web based asset management system for tracking classified hardware. Developed in PHP and mySQL on Windows platform.
-- Developed histogram pulse processing algorithm for ALR-69 radar warning receiver. Used for studying alternative pulse processing technique performance vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
-- Developed WAV audio playback system for ALR-69 radar warning receiver. Used for studying alternative threat warning audio effectiveness vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
+- Developed histogram pulse processing algorithm for ALR-69 radar warning receiver. Used for studying histogram pulse processing technique performance vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
+- Developed WAV audio playback system for ALR-69 radar warning receiver. Used for studying voice threat warning audio effectiveness vs. traditional methods and proof-of-concept demonstration. Developed in C on vxWorks platform.
 
 
 ## Projects
