@@ -26,12 +26,21 @@ _Specialization: N/A_
 
 ## Occupation
 
-`Apr 2011 - Current`
+`Jun 2019 - Current`
+__Capital One__, McLean, VA.
+
+_Software Engineer_
+
+- Developing reporting microservice for Captial One enterprise batch ingestion service. Reporting service generates batch processing metrics facilitating batch job retries, automated service ticket generation, chargeback reports, etc. Developed in Java with Spring Boot Framework on AWS platform.
+- Developed monitoring microservice for Capital One enterprise batch ingestion service. Monitoring service processes, stores, and aggregates data lineage using batch processing metadata. Developed in Java with Spring Boot Framework on AWS platform.
+
+
+`Apr 2011 - June 2019`
 __General Dynamics Mission Systems__, Fairfax, VA.
 
 _Software Engineer (2014-Current)_
 
-- Developing testing framework and support tools for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). Test framework and support tools provide automated integration test capability for the receiver exciter and beamforming processing subsystems.  Developed in Python on Linux platform.
+- Developed testing framework and support tools for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). Test framework and support tools provide automated integration test capability for the receiver exciter and beamforming processing subsystems.  Developed in Python on Linux platform.
 - Developed internal build/audit tools (Subversion automated builder, Subversion repo scraper, etc.) for General Dynamics Surface Electronic Warfare Improvement Program (SEWIP) and AMDR programs. Developed in Python on Linux platform.
 - Developed data recording and data routing functionality for the Data Routing Module (DRM) and implemented signal processing and detection algorithms for the Data Processing Module (DPM) software applications for the [Multi-Function Phased Array Radar (MPAR)](https://www.nssl.noaa.gov/tools/radar/atd/) advanced technology demonstration. DRM performs data processing load balancing across DPMs and data archiving capability. DPM performs signal processing and detection reporting. Developed in legacy C++ (read: C with classes) on Linux platform.
 - Supported integration of Transportation Security Equipment (TSE) Requirements Assessment Platform and RTI DDS middleware. Middleware provides messaging infrastructure for airport security checkpoint simulations, passenger flow modeling, and integration testing. Developed in Java on Windows platform.
