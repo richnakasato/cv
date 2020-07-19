@@ -38,7 +38,7 @@ _Software Engineer_
 `Apr 2011 - June 2019`
 __General Dynamics Mission Systems__, Fairfax, VA.
 
-_Software Engineer (2014-Current)_
+_Software Engineer (2014-2019)_
 
 - Developed testing framework and support tools for the [Air Missile Defense Radar (AMDR)](https://www.raytheon.com/capabilities/products/amdr). Test framework and support tools provide automated integration test capability for the receiver exciter and beamforming processing subsystems.  Developed in Python on Linux platform.
 - Developed internal build/audit tools (Subversion automated builder, Subversion repo scraper, etc.) for General Dynamics Surface Electronic Warfare Improvement Program (SEWIP) and AMDR programs. Developed in Python on Linux platform.
