@@ -31,7 +31,7 @@ __Capital One__, McLean, VA.
 
 _Software Engineer_
 
-- Developing reporting microservice for Captial One enterprise batch ingestion service. Reporting service generates batch processing metrics facilitating batch job retries, automated service ticket generation, chargeback reports, etc. Developed in Java with Spring Boot Framework on AWS platform.
+- Developing reporting microservice for Capital One enterprise batch ingestion service. Reporting service generates batch processing metrics facilitating batch job retries, automated service ticket generation, chargeback reports, etc. Developed in Java with Spring Boot Framework on AWS platform.
 - Developed monitoring microservice for Capital One enterprise batch ingestion service. Monitoring service processes, stores, and aggregates data lineage using batch processing metadata. Developed in Java with Spring Boot Framework on AWS platform.
 
 
